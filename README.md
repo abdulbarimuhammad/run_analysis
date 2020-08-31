@@ -28,9 +28,9 @@ load 'train' data files as data.table into R,
 Merge 'train' data with activity labels and subject number
 
 ##Part 3b
-#'test' data files
-# load 'test' data files as data.table into R,
-# Merge 'test' data with activity labels and subject number
+'test' data files
+load 'test' data files as data.table into R,
+Merge 'test' data with activity labels and subject number
 
 ##Part 4
 merge 'train' and 'test' datasets and add labels
