@@ -22,12 +22,12 @@ Rename features
 load 'train' and 'test' data files as data.table into R,
 Merge 'train' and 'test' data with activity labels and subject number
 
-##Part 3a
+###Part 3a
 'train' data files
 load 'train' data files as data.table into R,
 Merge 'train' data with activity labels and subject number
 
-##Part 3b
+###Part 3b
 'test' data files
 load 'test' data files as data.table into R,
 Merge 'test' data with activity labels and subject number
