@@ -10,31 +10,31 @@ These individual text files were combined to generate single data frames for the
 
 Finally, the tidy data set file (TidyData.csv) was created.
 
-#Part 1
-# download and unzip data files
+##Part 1
+download and unzip data files
 
-#Part 2
-# Load data.table package, load 'activity_labels' and 'features' files as data.table into R, 
-# Select only mean and standard deviation for each measurement
-# Rename features
+##Part 2
+Load data.table package, load 'activity_labels' and 'features' files as data.table into R, 
+Select only mean and standard deviation for each measurement
+Rename features
 
-#Part 3
-# load 'train' and 'test' data files as data.table into R,
-# Merge 'train' and 'test' data with activity labels and subject number
+##Part 3
+load 'train' and 'test' data files as data.table into R,
+Merge 'train' and 'test' data with activity labels and subject number
 
-#Part 3a
-#'train' data files
-# load 'train' data files as data.table into R,
-# Merge 'train' data with activity labels and subject number
+##Part 3a
+'train' data files
+load 'train' data files as data.table into R,
+Merge 'train' data with activity labels and subject number
 
-#Part 3b
+##Part 3b
 #'test' data files
 # load 'test' data files as data.table into R,
 # Merge 'test' data with activity labels and subject number
 
-#Part 4
-# merge 'train' and 'test' datasets and add labels
-# Convert classLabels to activityName.
+##Part 4
+merge 'train' and 'test' datasets and add labels
+Convert classLabels to activityName.
 
-#Part 5
-# Tidy dataset (TidyData) with average of each variable (feature/parameter)
+##Part 5
+Tidy dataset (TidyData) with average of each variable (feature/parameter)
